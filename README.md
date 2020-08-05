@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="i_likekapil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-likekapil&show_icons=true&hide_border=true&theme=vue" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://i_likekapil.com
 [twitter]: https://twitter.com/i_likekapil
 [instagram]: https://instagram.com/i_likekapil
