@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
 
-
-<br/>
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn Data structure and Algorithm
-
 ### Connect with me:
 
 [<img align="left" alt="i_likekapil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
