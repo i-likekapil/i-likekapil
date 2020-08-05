@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Kapil Kaushik [i_likekapil][website] 👋
+### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
 
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
