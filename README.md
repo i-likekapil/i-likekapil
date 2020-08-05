@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
-
+<!--
 <br/>
-[![HitCount](http://hits.dwyl.com/i-likekapil/i-likekapil.svg)](http://hits.dwyl.com/i-likekapil/i-likekapil)
+[![HitCount](http://hits.dwyl.com/i-likekapil/i-likekapil.svg)](http://hits.dwyl.com/i-likekapil/i-likekapil)-->
+
 <br/>
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
