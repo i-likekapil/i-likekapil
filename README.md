@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://i_likekapil.com
+[website]: https://devs-folio.netlify.app/
 [twitter]: https://twitter.com/i_likekapil
 [instagram]: https://instagram.com/i_likekapil
 [linkedin]: https://www.linkedin.com/in/i-likekapil/
