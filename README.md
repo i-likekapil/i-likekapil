@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 [website]: https://i_likekapil.com
 [twitter]: https://twitter.com/i_likekapil
 [instagram]: https://instagram.com/i_likekapil
-[linkedin]: https://linkedin.com/in/кคקเl-кคยรђเк-67a9821a0/
+[linkedin]: https://www.linkedin.com/in/i-likekapil/
 [github]: https://github.com/i-likekapil
