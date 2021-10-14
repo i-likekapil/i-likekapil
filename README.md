@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # КคקเL КคยรЂเК 
-<p align="center"><a href="https://github.com/kartikjain-sudo"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/i-likekapil"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
 
@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn Data structure and Algorithm
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-likekapil" alt="i-likekapil" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="i_likekapil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
