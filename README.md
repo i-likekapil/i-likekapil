@@ -2,6 +2,7 @@
 **i-likekapil/i-likekapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,12 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# КคקเL КคยรЂเК 
+<p align="center"><a href="https://github.com/kartikjain-sudo"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 ### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
 
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn Data structure and Algorithm
+- 🥅 2021 Goals: Learn Data structure and Algorithm
 ### Connect with me:
 
 [<img align="left" alt="i_likekapil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -48,9 +52,9 @@ Here are some ideas to get you started:
 <br />
 
 
-<img align="left" alt="i_likekapil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-likekapil&show_icons=true&hide_border=true&theme=vue" />
+<img align="left" alt="i_likekapil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-likekapil&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://devs-folio.netlify.app/
@@ -58,3 +62,5 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/i_likekapil
 [linkedin]: https://www.linkedin.com/in/i-likekapil/
 [github]: https://github.com/i-likekapil
+
+<p align="center"><a href="https://github.com/kartikjain-sudo"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
