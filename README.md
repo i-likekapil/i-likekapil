@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="i_likekapil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<a href="https://app.daily.dev/ilike_kapil"><img src="https://api.daily.dev/devcards/f51be6896e1347459ddec11700833cab.png?r=ik8" width="400" alt="Kapil Kaushik's Dev Card"/></a>
 
 ### Languages and Tools:
 
