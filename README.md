@@ -55,12 +55,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+<!--
 <img align="left" alt="i_likekapil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-likekapil&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
+-->
 
 
 [website]: https://devs-folio.netlify.app/
