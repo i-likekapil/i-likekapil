@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Data structure and Algorithm
+- 🥅 2023 Goals: Learn Data structure and Algorithm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-likekapil" alt="i-likekapil" /> </p>
 
