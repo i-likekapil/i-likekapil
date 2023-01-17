@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 # КคקเL КคยรЂเК 
 <p align="center"><a href="https://github.com/i-likekapil"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-### Hola, I'm Kapil Kaushik [i_likekapil][website] 👋
+### Hola, I'm Kapil Kaushik 👋
 
-## I'm a Developer!
+### About Me👨‍💻
+- 🏫 I'm a computer science Engineering Graduate (2017-2021).
+<a href="https://octodex.github.com/codercat/"><img src="https://octodex.github.com/images/manufacturetocat.png" width="300"  align="Right"></a>
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn Data structure and Algorithm
+- 👯 I’m looking to collaborate with other content creators.
+- 🔭 I’m currently working on [Microservices](https://github.com/i-likekapil/microservices)
+- 🧍‍♂️ I'm currently a member at [Cavisson Systems Inc.](https://www.cavisson.com/)
+- 😁 Pronouns: He/His/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-likekapil" alt="i-likekapil" /> </p>
 
