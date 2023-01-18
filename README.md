@@ -15,7 +15,7 @@
 - 🧍‍♂️ I'm currently a member at [Cavisson Systems Inc.](https://www.cavisson.com/)
 - 😁 Pronouns: He/His/Him
 
-### 🧰 Languages and Tools :
+### 🧰 Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact&show_icons=true)
 <br>
 ![Skill](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -25,6 +25,7 @@
 ![Skill](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Skill](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Skill](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=i-likekapil&theme=minimal)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -38,7 +39,7 @@
 </p>
 
 
-### 🤝 Let's Connect :
+### 🤝 Let's Connect
 [<img align="left" alt="i_likekapil.com" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="i_likekapil | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="i-likekapil | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
