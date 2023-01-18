@@ -16,6 +16,7 @@
 - 😁 Pronouns: He/His/Him
 
 ### 🧰 Languages and Tools :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact&show_icons=true)
 ![Skill](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Skill](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Skill](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -23,11 +24,6 @@
 ![Skill](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Skill](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Skill](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-## 📊 Most Used Language 🔝
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil"/>
-</p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
