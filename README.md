@@ -24,6 +24,11 @@
 ![Skill](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Skill](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
+## 📊 Most Used Language 🔝
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil"/>
+</p>
+
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-likekapil"/>
