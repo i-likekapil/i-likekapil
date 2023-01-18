@@ -17,6 +17,7 @@
 
 ### 🧰 Languages and Tools :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-likekapil&layout=compact&show_icons=true)
+<br>
 ![Skill](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Skill](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Skill](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
